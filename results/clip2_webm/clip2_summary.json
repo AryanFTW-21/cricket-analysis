@@ -1,0 +1,12 @@
+{
+  "video": "clip2.webm",
+  "width": 608,
+  "height": 1080,
+  "fps": 30.0,
+  "frames_processed": 331,
+  "valid_frames": 320,
+  "valid_fraction": 0.9667673716012085,
+  "suspected_scene_cuts": 1,
+  "peak_smoothed_wrist_speed_px_s": 2288.148859776203,
+  "warning": "This prototype estimates wrist image-plane motion in px/s, not calibrated bat speed in m/s. It does not compensate for camera motion and may switch player identity."
+}
