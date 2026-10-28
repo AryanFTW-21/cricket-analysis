@@ -29,3 +29,17 @@ The current baseline does not fully compensate for camera motion, directly track
 
 ## Reproducibility and privacy
 Keep the original clip filenames and record the commands used for each run. Do not publish source videos unless redistribution is permitted. The supplied model weights may also be excluded from version control if they can be downloaded separately.
+## Results
+
+### Clip 1
+
+![Clip 1 velocity plot](results/clip1/clip1_velocity.png)
+
+### Clip 2
+
+![Clip 2 velocity plot](results/clip2/clip2_velocity.png)
+
+### Clip 3
+
+![Clip 3 velocity plot](results/clip3/clip3_velocity.png)
+
