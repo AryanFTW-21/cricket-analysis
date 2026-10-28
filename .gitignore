@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.log
+
+# Large input videos and model weights
+*.webm
+*.mp4
+*.mov
+*.pt
+
+# Keep selected result files tracked
